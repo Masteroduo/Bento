@@ -53,33 +53,33 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Music'
+			icon: 'music',
+			link: 'https://open.spotify.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'LMS',
+			icon: 'book-text',
+			link: 'https://www.kristujayantiexamlms.com/',
 		},
 		{
 			id: '6',
