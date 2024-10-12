@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
+			name: 'Music',
+			icon: 'music',
+			link: 'https://open.spotify.com/',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Music',
-			icon: 'music',
-			link: 'https://open.spotify.com/',
+			name: 'mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/Masteroduo/',
 		},
 	],
 
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/7pks41nAP3y3d0TkKQqbJg',
 				},
 				{
-					name: 'South Indian',
-					link: 'https://open.spotify.com/playlist/4LPxpeam9NJZun1BbcQKJb',
+					name: 'Rot',
+					link: 'https://open.spotify.com/playlist/0832WkWUBSr8N3OmjLs0c9',
 				},
 			],
 		},
@@ -165,7 +165,7 @@ const CONFIG = {
 					link: 'https://chatgpt.com/',
 				},
 				{
-					name: 'TCS',
+					name: 'College',
 					link: 'https://g21.tcsion.com/SelfServices/',
 				},
 				{
