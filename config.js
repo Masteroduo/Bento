@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Sha',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
