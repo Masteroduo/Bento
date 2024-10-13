@@ -13,8 +13,8 @@
   --fg-primary: 12vh; /* Time and Greetings */
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 8vh; /* Date */
-  --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --fg-list: 3vh; /* Links List */
+  --icon: 4vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
@@ -56,7 +56,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Rubik';
   transition: 0.2s ease-in-out;
 }
 
