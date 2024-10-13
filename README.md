@@ -1,6 +1,7 @@
 ## 📸 Screenshots
-![Screenshot (11)](https://github.com/user-attachments/assets/ea875ea1-c0a9-45de-9286-2ec8dadbb60b)
-![Screenshot (12)](https://github.com/user-attachments/assets/c060b1de-d13f-4eb3-9cfa-5a22afaaa292)
+![image](https://github.com/user-attachments/assets/ba4e6ca9-7349-4e28-9701-397c8213dade)
+![image](https://github.com/user-attachments/assets/e3bc10c4-a11a-4b2e-8ab4-64e9b0105246)
+
 ## ✨ Features
 - **Easy configuration** file.
 - **Dark/Light** mode, you can toggle it and will be saved in local storage.
