@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Music',
-			icon: 'music',
+			icon: 'headphones',
 			link: 'https://open.spotify.com/',
 		},
 		{
@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Music',
-			icon: 'headphones',
+			icon: 'music',
 			link: 'https://open.spotify.com',
 		},
 		{
